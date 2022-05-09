@@ -5,13 +5,6 @@ This project uses Apple's ARKit and Vision framewoks to compare different displa
 ## Overview
 This code uses the Apple vision API, specifically the neural accellerated VNRecognizeTextRequest API to recognize text in real time with high accuracy.
 
-## Presentation
-Presentation videos can be found here:
-
-Demo: https://youtu.be/4xRzulRUQG8
-
-https://drive.google.com/drive/folders/1hZ_PSgL_6GuTTFhACxiD6IOSKEiVvuFE?usp=sharing
-
 ## Build Instructions
 This prototype has been designed to be run on a 12.9" iPad running iOS 14 or later. To build, import the bundle into a local organization and build targeting the latest iOS SDK.
 
